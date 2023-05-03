@@ -1,5 +1,6 @@
 # Lagrange Point PCB in an MMC5 cartridge
 This repository contains gerber files for a PCB that allows transplanting your copy of Lagrange Point into an MMC5-type cartridge shell.
+The PCB should fit into both the original shells made by Nintendo as well as these [reproduction ones](https://everdrive.me/accessories/shell-for-fami-cartridge.html),
 All parts from the original PCB can be directly transferred over to the new PCB.
 
 The only new part required is the CR2025 coin cell holder. The part number for it is `BK-6219-TR`.
